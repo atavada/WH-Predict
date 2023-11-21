@@ -1,3 +1,6 @@
+# Deskripsi: Program untuk memprediksi berat badan berdasarkan jarak antara dua bahu dan tinggi badan dengan perhitungan integral tabung
+
+# Import library yang dibutuhkan
 import cv2
 import numpy as np
 import mediapipe as mp
